@@ -1,0 +1,3 @@
+[submodule "invitation-form"]
+	path = invitation-form
+	url = https://github.com/AmpCoding/invitation-form.git
